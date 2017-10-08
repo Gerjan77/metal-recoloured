@@ -4,8 +4,12 @@
 <dict>
 	<key>Author</key>
 	<string>Slice and Geert-Jan Uijtdewilligen</string>
+	<key>New item</key>
+	<string></string>
 	<key>Description</key>
-	<string>Metal, recolored for the MacOS look and feel</string>
+	<string>Metal by Slice recolored for the MacOS look and feel</string>
+	<key>New item - 2</key>
+	<string></string>
 	<key>Theme</key>
 	<dict>
 		<key>Layout</key>
@@ -17,9 +21,9 @@
 		<array>
 			<dict>
 				<key>FrameTime</key>
-				<integer>200</integer>
+				<integer>20</integer>
 				<key>Frames</key>
-				<integer>15</integer>
+				<integer>180</integer>
 				<key>ID</key>
 				<integer>1</integer>
 				<key>Path</key>
@@ -48,8 +52,6 @@
 			<key>Swap</key>
 			<false/>
 		</dict>
-		<key>Banner</key>
-		<string>logo-trans.png</string>
 		<key>Font</key>
 		<dict>
 			<key>CharWidth</key>
